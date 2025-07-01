@@ -1,7 +1,6 @@
 # VicAdvancedCalculator
 🔢 VicAdvanced Calculator A sleek, AI-powered desktop calculator for Windows built with Python and Tkinter. Perform basic and scientific calculations, access a built-in math assistant (ChatGPT), and enjoy real-time features like Ans memory and time display.  🚀 coming soon: graph functions,  🕘 Smart History (recall past calculations anytime)...
-## ________________________________________________________________________________________________________________________________
-
+## ------------------------------------------------------------------------
 # VicAdvanced Calculator
 
 **VicAdvanced Calculator** is a GUI-based desktop calculator built using Python and Tkinter. It combines essential arithmetic operations with the power of AI via OpenAI's GPT model, offering an all-in-one tool for students, engineers, and general users.
@@ -56,4 +55,4 @@
 ---
 
 ## 💡 Author
-Built and maintained by Victor Godwin
+Built and maintained by [Victor Godwin](https://github.com/Vic-Godwin)

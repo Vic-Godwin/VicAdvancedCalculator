@@ -1,5 +1,5 @@
 # 🔢 VicAdvanced Calculator
-Added new features and updated code for v1.1release
+Added new features and updated code for v1.1.01 release
 
 ![image](https://github.com/user-attachments/assets/2f4fd2b5-f03b-4b9e-8179-d36bdfa09bfb)
 
@@ -7,7 +7,7 @@ Added new features and updated code for v1.1release
 
 ---
 
-## 🔧 Features (v1.1)
+## 🔧 Features (v1.1.01)
 
 - 🧮 Basic arithmetic operations: `+`, `-`, `*`, `/`, `sqrt`
 - 🔁 **Last Result Memory (`Ans`)** for chained expressions

@@ -7,17 +7,17 @@ Added new features and updated code for v1.1.01 release
 
 ---
 
-## 🔧 Features (v1.1.01)
+## 🔧 Features working perfectly in (v1.1) but didnt work pretty well in v1.0
 
 - 🧮 Basic arithmetic operations: `+`, `-`, `*`, `/`, `sqrt`
 - 🔁 **Last Result Memory (`Ans`)** for chained expressions
 - ⌛ Real-time system **Check Time** toggle
-- 🔙 `Back`, **ON**, and **OFF** power buttons
+- 🔙 `Back`, **ON**, and **OFF** power buttons (No longer Frustrating as it was in v1.0)
 - 🤖 GPT-4o-powered assistant for solving typed math queries
 - 📋 Intelligent expression handling using `eval` and `ast`
 - 🎨 Clean fullscreen UI with intuitive layout
 - 🧼 Improved error handling, responsive layout, and better logic flow
-
+  
 ---
 
 ## 🛠️ Coming Soon
@@ -25,29 +25,32 @@ Added new features and updated code for v1.1.01 release
 - 📈 Graphing interface for plotting any function
 - 🔢 Trigonometric and logarithmic button logic
 - 📚 History saving and recall feature
-- ✍️ Persistent `Ans` tag display (e.g., `Ans + 5`)
+- ✍️ Persistent `Ans` tag display (e.g., `Ans + 5`). Already wroking in the v1.1 but produced error in v1.0
 
 ---
 
 ## 🧑‍💻 How to Use
 
-1. **Run the App**  
+1. **Run the App for v.1.1**  
    Open `VicAdvancedCalculator_v1.1.py` in Python 3.8+.
+   
+   **Run the App for v.1.0**  
+   Open `VicAdvancedCalculator_v1.0.py` in Python 3.8+.
 
-2. **Calculate**  
+3. **Calculate**  
    - Click numbers/operators
    - Use `=` to evaluate
-   - Use `sqrt` for square root
+   - Use `sqrt` for square root. The sqrt was a big bug in v1.0, but works perfectly now
    - After solving, continue with the result using an operator (`Ans + 4`)
 
-3. **Time Toggle**  
-   Press **Check Time** to toggle current time display.
+4. **Time Toggle**  
+   Press **Check Time** to toggle current time display. Works perfectly in both version
 
-4. **AI Math Help**  
+5. **AI Math Help**  
    - Type any expression in the input box
    - Click **Ask AI** to get GPT-powered solution in the console
 
-5. **Control Buttons**  
+6. **Control Buttons**  
    - `Back` deletes last character
    - `OFF` disables output and clears input
    - `ON` reactivates and resets the calculator
@@ -87,7 +90,7 @@ VicAdvancedCalculator/
 ```
 
 # 👨‍🎓 Author
-### Victor Godwin
+### [Victor Godwin](https://github.com/Vic-Godwin)
 Engineer • Coder • AI Enthusiast
 
 Building tools that make life easier, smarter, and more human.
